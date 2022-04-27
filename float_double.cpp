@@ -14,7 +14,7 @@ int main(){
     float num;
     double val_decimal;
     int val_entero;
-    int formato_bit=11, signif=52, p_bit=0;
+    int formato_bit=11, signif=53, p_bit=0;
     cout<<"--------------------------------------------"<<endl;
     cout<<"Conversor de Float a Double"<<endl;
     cout<<"Ingrese un numero: ";    
